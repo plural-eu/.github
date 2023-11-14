@@ -3,8 +3,11 @@
 The European Research & Innovation project PLURAL funded by the Horizon 2020 programme aims to design, validate and demonstrate a palette of versatile, adaptable, scalable, off-site prefabricated Plug-and-Use kits. The objectives of the project will be achieved through the international cooperation of 18 partners from 7 European countries with an overall budget of 9,5 million EUR.
 
 :arrow_right: Reduction of energy consumption, emissions and carbon footprint of buildings is vital in meeting the **EU's climate and energy targets for 2030**.
+
 :arrow_right: The Near Zero Energy Building concept requires a **high level of energy efficiency**, in combination with **on-site renewable energy production and use**.
+
 :arrow_right: It is evident that improving the energy performance of buildings calls for **retrofit/renovation** actions that not only meet the **energy and environmental targets**, but also ensure **minimum disturbance** of the inhabitants and indoor comfort.
+
 :arrow_right: The PLURAL project aims to tackle this challenge by developing **“Plug-and-Use”** kits for fast and energy efficient deep retrofitting.
 
 ## Objectives 
